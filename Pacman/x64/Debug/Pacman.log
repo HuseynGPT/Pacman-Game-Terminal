@@ -1,0 +1,5 @@
+﻿  Pacman Game.cpp
+C:\Users\Administrator\Desktop\Pacman\Pacman Game.cpp(48,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\Desktop\Pacman\Pacman Game.cpp(48,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Administrator\Desktop\Pacman\Pacman Game.cpp(127,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pacman.vcxproj -> C:\Users\Administrator\source\repos\Pacman\x64\Debug\Pacman.exe
